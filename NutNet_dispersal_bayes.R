@@ -9,6 +9,8 @@ library(plyr)
 library(rjags)
 library(MCMCpack)
 
+#test
+
 
 ##MVN model for dispersal traits by sites and species/groups.
 
